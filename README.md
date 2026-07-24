@@ -30,3 +30,12 @@ Performs a comprehensive audit on the provided URL.
 {
   "url": "[https://example.com](https://example.com)"
 }
+
+---
+
+## 🤖 AI Usage Disclosure
+I utilized Gemini to assist with initial boilerplate structure, optimal caching logic exploration, and test setup. Following the AI recommendations, I manually refined the concurrency error handling, restructured the rate limiter middleware, and configured the CI pipeline manually.
+
+---
+
+*Built for Digital Heroes Training Task - [digitalheroesco.com](https://digitalheroesco.com)*
